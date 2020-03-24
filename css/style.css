@@ -66,7 +66,7 @@ p{
     max-width: 100%;
 }
 .list-menu img{
-    width: 30px;
+    width: 60px;
 }
 .list-menu{
     margin-top: 0 !important;
@@ -83,6 +83,13 @@ p{
     color: hotpink;
     font-weight: 400 !important;
     margin: 2px 0;
+}
+#stars{
+	color: #EBE90F;
+}
+.btn-gris{
+	background-color: #292929;
+	color: #fff;
 }
 
 
