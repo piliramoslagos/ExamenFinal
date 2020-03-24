@@ -89,7 +89,10 @@ p{
 }
 .btn-gris{
 	background-color: #292929;
-	color: #fff;
+	color: #fff !important;
+}
+.precio{
+	color: #292929;
 }
 
 
