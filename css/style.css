@@ -88,7 +88,7 @@ p{
 	color: #EBE90F;
 }
 .btn-gris{
-	background-color: #292929;
+	background-color: #292929 !important;
 	color: #fff !important;
 	margin-top: 20px;
 }
