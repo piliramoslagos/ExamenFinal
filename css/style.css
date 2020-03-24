@@ -90,12 +90,23 @@ p{
 .btn-gris{
 	background-color: #292929;
 	color: #fff !important;
+	margin-top: 10px;
+}
+.btn-rosa{
+	margin-top: 10px;
 }
 .precio{
 	color: #292929;
 }
-
-
+.img-center{
+	margin: 20px auto;
+	display: block
+}
+.titulo{
+	font-size: 18px;
+	color: #000000 !important;
+	font-weight: 600;
+}
 
 
 
